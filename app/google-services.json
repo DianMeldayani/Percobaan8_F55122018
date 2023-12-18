@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204617330034",
+    "project_id": "fir-f55122018",
+    "storage_bucket": "fir-f55122018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204617330034:android:bdd5261cdfc542cf9f01eb",
+        "android_client_info": {
+          "package_name": "com.diann.percobaan8_firebase_f55122018_dianmeldayani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZYq8fElODW4-OtYRlULzXmeUr0zw5b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
